@@ -1,0 +1,12 @@
+         Python
+#Object oriented 
+#multi-paradigm 
+#support dynamic data type 
+#indendent from platform 
+#high level internal object data type 
+#automatic memory management 
+
+Python file :
+Tuple- ordered collection and immutable
+List- ordered collection and mutable
+Dictionary- unordered collection and mutable
